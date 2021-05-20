@@ -1,0 +1,13 @@
+{
+  "company":"Autodesk",
+  "roles":  [
+    {
+      "role" : "Data Scientist",
+      "description" : ["literally nothing", "more nothing"]
+    },
+    {
+      "role" : "clowning around",
+      "description" : ["making memes", "seizing the means of production"]
+    }
+  ]
+}
