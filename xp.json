@@ -13,7 +13,7 @@
       },
       {
         "role" : "Data Scientist",
-        "role_date" : "Aug 2019 - Apr 2021"
+        "role_date" : "Aug 2019 - Apr 2021",
         "description" : [
           "Trained and deployed ML model that drives Autodesk Virtual Agent (AVA); the model uses distilBERT to classify natural language queries into relevant customer support functions",
           "Reduced error-rate of estimating product-support case resolution times from 3+ days to 1 hr, by building a distributed data pipeline with Spark that runs an estimation algorithm over teraBytes of data"
