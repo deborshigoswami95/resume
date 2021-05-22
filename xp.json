@@ -1,13 +1,39 @@
-{
-  "company":"Autodesk",
-  "roles":  [
-    {
-      "role" : "Data Scientist",
-      "description" : ["literally nothing", "more nothing"]
-    },
-    {
-      "role" : "clowning around",
-      "description" : ["making memes", "seizing the means of production"]
-    }
-  ]
-}
+[
+  {
+    "company":"Autodesk",
+    "location":"San Francisco Bay Area",
+    "roles":  [
+      {
+        "role" : "Senior Data Scientist",
+        "role_date" : "May 2021 - Current",
+        "description" : [
+          "Enabled personalized content recommendation for 6 Million website users annually, using predictive model that recommends industry banner tab and product use-cases on Autodesk Home-Page by analyzing user’s prior click-stream behavior",
+          "Spearheading the development of a recommender engine to match customer’s use-case, expressed in natural language, to the appropriate products"
+        ]
+      },
+      {
+        "role" : "Data Scientist",
+        "role_date" : "Aug 2019 - Apr 2021"
+        "description" : [
+          "Trained and deployed ML model that drives Autodesk Virtual Agent (AVA); the model uses distilBERT to classify natural language queries into relevant customer support functions",
+          "Reduced error-rate of estimating product-support case resolution times from 3+ days to 1 hr, by building a distributed data pipeline with Spark that runs an estimation algorithm over teraBytes of data"
+        ]
+      }
+    ]
+  },
+  {
+    "company":"Inference Analytics",
+    "location":"Champaign, Illinois",
+    "roles":  [
+      {
+        "role" : "Data Scientist",
+        "role_date" : "Jan 2019 - July 2019",
+        "description" : [
+          "Automated radiological report summary generation using Attention based Seq2Seq modelling",
+          "Segmented inbound patients requiring urgent care vs further screening using clustering and topic modeling on radiological reports"
+        ]
+      }
+    ]
+  }
+]
+
