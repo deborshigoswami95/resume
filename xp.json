@@ -18,6 +18,15 @@
           "Trained and deployed ML model that drives Autodesk Virtual Agent (AVA); the model uses distilBERT to classify natural language queries into relevant customer support functions",
           "Reduced error-rate of estimating product-support case resolution times from 3+ days to 1 hr, by building a distributed data pipeline with Spark that runs an estimation algorithm over teraBytes of data"
         ]
+      },
+      {
+        "role" : "Data Analyst Intern",
+        "role_date": "May 2018 - Aug 2018",
+        "description" : [
+          "Customer intent analysis and prediction",
+          "Data Segmentation, clustering, topic modeling",
+          "Data Visualization"
+        ]
       }
     ]
   },
